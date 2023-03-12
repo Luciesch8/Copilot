@@ -1,0 +1,16 @@
+{
+    "name": "Copilot App",
+    "short_name": "copilotapp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#3E4EB8",
+    "theme_color": "#e5604d",
+    "icons": [
+      {
+          "src": "icon-144.png",
+          "sizes": "144x144",
+          "type": "image/png",
+          "purpose": "any"
+      }
+    ]
+  }
